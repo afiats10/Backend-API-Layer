@@ -6,3 +6,4 @@ fix: handle RPC timeout error
 refactor: improve API response structure
 feat: add caching layer for contract calls
 chore: update .env configuration template
+feat: implement webhook for transaction status
