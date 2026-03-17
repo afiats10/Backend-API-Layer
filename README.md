@@ -9,3 +9,4 @@ chore: update .env configuration template
 feat: implement webhook for transaction status
 fix: correct wallet signature verification
 docs: add backend setup guide
+refactor: modularize service layer
